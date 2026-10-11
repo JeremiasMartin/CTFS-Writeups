@@ -117,4 +117,5 @@ CSSCTF{WHOS_THIS_FLUFFMASTER_MR_Chinaski}
 Ingresamos el valor de la flag reconstruida en la plataforma, quedando resuelta de forma correcta.
 
 ![Ingreso flag](./imágenes/Pasted%20image%2020261001160520.png)
+
 ![Flag aceptada](./imágenes/Pasted%20image%2020261001165529.png)
