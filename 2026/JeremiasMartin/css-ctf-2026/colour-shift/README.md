@@ -89,4 +89,5 @@ CSSCTF{SHINE_ON}
 La ingresamos en la plataforma del reto quedando resuelto correctamente.
 
 ![Ingreso flag](./imágenes/Pasted%20image%2020261001154951.png)
+
 ![Flag aceptada](./imágenes/Pasted%20image%2020261001155007.png)
